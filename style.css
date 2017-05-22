@@ -1,0 +1,19 @@
+body {
+  margin: auto;
+  width: 1000px;
+  height: 100px;
+}
+header {
+  outline: dotted 5px orange;
+  width: 100%;
+}
+nav ul li {
+  float: right;
+
+}
+
+logo {
+  margin-top: 400px;
+
+
+}
